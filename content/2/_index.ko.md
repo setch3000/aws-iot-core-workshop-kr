@@ -1,5 +1,5 @@
 ---
-title: 실습 2. Rule engine 실습
+title: Rule engine 실습
 weight: 30
 pre: "<b>2. </b>"
 ---

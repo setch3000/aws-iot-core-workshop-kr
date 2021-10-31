@@ -1,5 +1,5 @@
 ---
-title: 실습 1. 실습 환경 생성 및 IoT Core와의 통신
+title: 실습 환경 생성 및 IoT Core와의 통신
 weight: 20
 pre: "<b>1. </b>"
 ---

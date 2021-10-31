@@ -1,5 +1,5 @@
 ---
-title: 실습 3. Thing Shadow 실습
+title: Thing Shadow 실습
 weight: 40
 pre: "<b>3. </b>"
 ---
