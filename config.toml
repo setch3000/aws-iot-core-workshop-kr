@@ -7,7 +7,7 @@ title = "AWS IoT Core workshop"
 theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
-baseURL = ""
+baseURL = "https://main.djn88q88irabq.amplifyapp.com"
 ignoreFiles = [ "\\.*5\\.*" ]
 
 uglyurls = true
