@@ -1,7 +1,7 @@
 ---
 title: 소개
 weight: 10
-pre: "<b>0. </b>"
+pre: "<b></b>"
 ---
 
 이 워크샵을 통해 AWS IoT Core 기번 활용법 및 Rule engine을 통한 다른 AWS 서비스와의 통합 활용 방법을 실습합니다.<br/><br/>

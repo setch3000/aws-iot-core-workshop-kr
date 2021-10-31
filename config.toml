@@ -8,6 +8,7 @@ theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 baseURL = ""
+ignoreFiles = [ "\\.*5\\.*" ]
 
 uglyurls = true
 sectionPagesMenu = "main"
