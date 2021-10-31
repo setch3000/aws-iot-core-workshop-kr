@@ -1,1 +1,1 @@
-# aws-iot-core-workshop-kr
+# aws-iot-immersion-day

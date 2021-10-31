@@ -1,0 +1,54 @@
+RelativeURLs=true
+CanonifyURLs=true
+languageCode = "ko-KR"
+defaultContentLanguage = "ko"
+
+title = "AWS IoT Core workshop"
+theme = "learn"
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+baseURL = ""
+
+uglyurls = true
+sectionPagesMenu = "main"
+pygmentsCodeFences = true
+pygmentsStyle = "monokai"
+
+[params]
+  description = "AWS IoT Core workshop - Korea"
+  author = "Albert Lee"
+  disableBreadcrumb = false
+  disableNextPrev = false
+  themeVariant = "aws"
+  disableSearch = false
+  disableAssetsBusting = true
+  disableLanguageSwitchingButton = false
+  disableShortcutsTitle = true
+  disableInlineCopyToClipBoard = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[privacy.youtube]
+    disable = false
+    privacyEnhanced = true
+[privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[Languages]
+[Languages.ko]
+title = "AWS IoT Immersion Day"
+weight = 1
+languageName = "한국어"
+[Languages.en]
+title = "AWS IoT Core workshop"
+weight = 2
+languageName = "English"
