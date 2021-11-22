@@ -8,7 +8,7 @@ theme = "learn"
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 baseURL = "https://main.djn88q88irabq.amplifyapp.com"
-ignoreFiles = [ "\\.*5\\.*" ]
+# ignoreFiles = [ "\\.*5\\.*" ]
 
 uglyurls = true
 sectionPagesMenu = "main"
