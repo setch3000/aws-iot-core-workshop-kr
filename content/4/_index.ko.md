@@ -82,6 +82,7 @@ Role name에 ```MyIoTDeviceAdvisorRole```을 입력하고 ***Create role***을 �
 }
 ```
 
+![17.png](/images/4/17.png)
 
 ---
 <p align="center">
