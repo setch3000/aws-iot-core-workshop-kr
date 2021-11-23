@@ -63,6 +63,7 @@ Role name에 ```MyIoTDeviceAdvisorRole```을 입력하고 ***Create role***을 �
 ![16.png](/images/4/16.png)
 
 ***Trust relationships***을 클릭하고 ***Edit trust relationship***을 클릭합니다.
+![17.png](/images/4/17.png)
 
 ***Policy Document***를 아래 내용으로 교체하고 ***Update Trust Policy***를 클릭합니다.
 
@@ -82,7 +83,8 @@ Role name에 ```MyIoTDeviceAdvisorRole```을 입력하고 ***Create role***을 �
 }
 ```
 
-![17.png](/images/4/17.png)
+![18.png](/images/4/18.png)
+
 
 ---
 <p align="center">
